@@ -36,7 +36,7 @@
 				<Username>testcloud2020</Username>
 				<Password>Cloud2020</Password>
 				<workerType>Micro</workerType>
-				<applicationName>world-time-api</applicationName>
+				<applicationName>world-time-api-dlt-dev</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<workers>1</workers>
 				</cloudHubDeployment>
