@@ -39,7 +39,6 @@
 				<applicationName>world-time-api-dlt-dev</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<workers>1</workers>
-				<objectStore>false</objectStore>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
